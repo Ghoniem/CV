@@ -1,0 +1,253 @@
+
+Introduction: 
+Nasr Ghoniem is internationally renowned as a materials scientist for his seminal scientific contributions. 
+His research has included a range of materials science and materials physics problems, exemplified by a 
+unique understanding of the role of fundamental materials science in advancing technological innovation.  
+He conducted and led research in the areas of damage and failure of materials, defect mechanics and 
+physics, material degradation in severe environments, plasma and laser processing, self-organization and 
+instability phenomena, and radiation interaction with materials.  Nasr's publication record includes over 
+350 publications (280 refereed journal articles), with over 5000 citations (Google Scholar). He edited 
+eight books on applied plasma science, multiscale modeling of materials, plasticity & fracture, and nano- 
+and micro-mechanics, and is the co-author of a two-volume book (1100 pages) published by Oxford Press 
+(2008): Nasr M. Ghoniem and Daniel Walgraef, Instabilities and Self-Organization in Materials, Volume 
+I: Fundamentals of Nanoscience, Volume II: Applications in Materials Design and Nanotechnology. The 
+first volume lays the mathematical and computational foundations of multiscale modeling methods in 
+materials science. The second volume provides the reader with many applications of self-organization 
+phenomena in areas as diverse as thin films, crystal growth, radiation effects, surface roughening, 
+plasticity, fracture, plasma and laser processing, and nano-particle self-organization. Nasr is well-known 
+for his contributions that have shaped the development of material science in recent decades: (1) his 
+extensive work on the theory of microstructure evolution in irradiated materials; especially helium 
+transport, and helium-vacancy cluster formation, (2) his invention of a class of ferritic/ martensitic steels 
+that have the property of "low-activation," with vastly reduced radioactivity levels than prior steels used 
+in nuclear applications, (3) his conceptualization of the method of "Dislocation Dynamics," as a viable 
+materials science computer simulation tool for investigations of metal plasticity at multi-scales, (4) his 
+tireless efforts to work with leaders in the materials science community for the establishment of the field 
+of multiscale modeling, which has spurred many recent research activities and captured the imagination 
+of many scientists and funding agencies by breaking barriers between traditional disciplines, and (5) his 
+research on self-organization and pattern formation phenomena in materials far from equilibrium. 
+
+**Ghoniem's Key Scientific Achievements:**
+
+During his Ph.D. research at the University of Wisconsin, Nasr developed theoretical models for the 
+dynamics of point defects and void swelling in structural materials under pulsed irradiation.  His 
+theoretical research on the effects of radiation pulsing on materials has defined many of the characteristics 
+of microstructure evolution and several macroscopic properties, and his findings were confirmed by 
+subsequent experiments.  Prior to Nasr's work, the rate theory of void swelling (and microstructure 
+evolution in irradiated materials) has systematically divided the problem into a nucleation phase and a 
+growth phase.  However, extension of classical nucleation theory to the clustering of point defects 
+produced by irradiation was not successful prior to Nasr's work. Building on his Ph.D. thesis work on the 
+formulation of a dynamic rate theory for pulsed systems (e.g. NM Ghoniem, GL Kulcinski, "A critical 
+assessment of the effects of pulsed irradiation on the microstructure, swelling, and creep of materials," 
+Nucl. Technol./Fusion, 2(2), 165-198, 1982, and NM Ghoniem, "The early stages of void and interstitial 
+loop evolution in pulsed fusion reactors," JNM, 89, 359-371,1980), Nasr developed a comprehensive 
+framework for the rate theory of microstructure evolution that included both nucleation and growth 
+simultaneously, and resulted in direct correlations between theory and experiments (NM Ghoniem, DD 
+Cho, "The Simultaneous Clustering of Point Defects during Irradiation," Physica Status Solidi (a) 54 (1), 
+171-178, 1979, EP Simonen, NM Ghoniem, NH Packan, "Pulsed flux effects on radiation damage," JNM, 
+122 (1-3), 391-401, 1984). He pioneered the development of theoretical and computational methods to 
+thoroughly represent components of the microstructure in irradiated materials (e.g. voids, bubbles and 
+interstitial clusters/ loops) with hierarchies of rate equations. Nasr's contributions in this area include the 
+following:
+
+(1)	Development of the Fokker-Planck stochastic theory of atomic clustering, with several 
+applications to microstructure evolution, diffusion of helium in irradiated materials, and has 
+generalized the method to study the growth of thin films (e.g.   NM Ghoniem, S Sharafat, "A 
+numerical solution to the Fokker-Planck equation describing the evolution of the interstitial loop 
+microstructure during irradiation, JNM, 92 (1), 121-135, 1980, NM Ghoniem, "Stochastic theory 
+of diffusional planar-atomic clustering and its application to dislocation loops," Physical Review 
+B 39 (16), 11810, 1989, and H Huang, NM Ghoniem, "Formulation of a moment method for 
+multidimensional Fokker-Planck equations," Physical Review E 51 (6), 5251, 1995).
+
+(2)	Development of the rate theory of helium transport and clustering in irradiated materials, with 
+numerous applications to grain boundary fracture and swelling of irradiated materials, and in 
+investigations of thermal and irradiation creep (e.g. NM Ghoniem, S Sharafat, JM Williams, and 
+LK Mansur, "Theory of helium transport and clustering in materials under irradiation," JNM, 
+117, 96-105, 1982, NM Ghoniem, ML Takata, "A rate theory of swelling induced by helium and 
+displacement damage in fusion reactor structural materials," JNM 105 (2-3), 276-292, 1982, and 
+NM Ghoniem, JN Alhajji, D Kaletta, "The effect of helium clustering on its transport to grain 
+boundaries, JNM 136 (2), 192-206, 1985).
+
+With his former students, Nasr developed some of the earliest works in atomistic simulations of radiation 
+interaction with materials. He developed Monte Carlo (MC) and Molecular Dynamics (MD) simulations 
+of radiation interaction with materials.  The computer program that he developed with his former student 
+Phillip Chou (Transport of Ions in Polyatomic Materials, TRIPOS) preceded the commercially popular 
+code TRIM, routinely used nowadays for ion implantation studies (P Chou, NM Ghoniem, "Precipitate 
+dissolution by high energy collision cascades," JNM, 117, 55-63,1983).  His work on atomistic 
+simulation of radiation interaction with materials has two salient achievements:
+(1)	Ion implantation and preferential sputtering in heterogeneous materials (PS Chou, NM Ghoniem, 
+"Applications of the Monte Carlo code TRIPOS to surface and bulk ion transport problems," 
+Nuclear Instruments and Methods in Physics Research, 28 (2), 175-184, 1987, and SP Chou, NM 
+Ghoniem, "Molecular dynamics of collision cascades with composite pair--many-body 
+potentials," Physical Review, B, 43 (4), 2490-2495, 1991);
+(2)	Effects of cosmic radiation on microelectronic materials (MOS microchips). The problem of 
+"Single-Event Upset," where single, highly energetic cosmic particles, caused loss of guidance 
+and control in early satellites and other spacecraft.  His work with his former student, Roger 
+Martin, and industrial collaborators, has paved the way to develop mitigation strategies for this 
+problem (e.g. RC Martin, NM Ghoniem "Monte Carlo Simulation of Coupled Ion-Electron 
+Transport in Semiconductors," Physica Status Solidi (a) 104 (2), 743-754, 1987, Martin, R. C., 
+Ghoniem, N. M., Song, Y., Cable, J. S., "The Size Effect of Ion Charge Tracks on Single Event 
+Multiple-Bit Upset," Nuclear Science, IEEE Transactions, 34 (6), 1305- 1309, 1987.  Vu, K.N., 
+Cable, J.S., Witteles, A.A., Kolasinski, W.A., Koga, R., Elder, J.H.; Osborn, J.V., Martin, R.C., 
+and Ghoniem, N.M., "Experimental and analytical investigation of single event, multiple bit 
+upsets in poly-silicon load, 64 K�1 NMOS SRAMs," Nuclear Science, IEEE Transactions, 35 
+(6), 1673-1677, 1988).
+
+Early in his career, and because of his keen understanding of the connection between fundamental 
+materials science research and technological innovations, Nasr was the first to recognize the importance 
+of environmentally friendly structural materials, where he ventured into the experimental development of 
+low-activation steels.  He holds the first world patent on the development of low activation 
+ferritic/martensitic steels for (U.S. Patent No. 4,622,067, November 11, 1986 (with D. S. Gelles and R. 
+W. Powell).  These early experimental efforts by Nasr have paved the way for worldwide research 
+programs to develop structural steel alloys for fission and fusion energy applications that are 
+environmentally-friendly, yet of superior high-temperature performance.  His interest in the applied side 
+of materials science has led to a widely cited co-authored publication (with Zinkle, 120 citations) that has 
+helped guide the selection and development of high-temperature structural materials in nuclear energy 
+applications (SJ Zinkle, NM Ghoniem, "Operating temperature windows for fusion reactor structural 
+materials," Fusion Engineering and Design 51, 55-71, 2000).
+
+Nasr recognized the importance of silicon carbide as a high-temperature material that has vast potential in 
+the electronics and nuclear industries.  He mentored several Ph.D. students and guided them to work on 
+fundamental aspects of defects, and on swelling and fracture processes in SiC and SiC/SiC composites.  
+The two students whom he mentored in this area are currently chaired professor at UConn (Huang) and 
+full professor at Purdue (El Azab).  The basic determination of point defect formation and migration 
+energies in SiC was laid out by Nasr and his group (H Huang, NM Ghoniem, JK Wong, M Baskes, 
+"Molecular dynamics determination of defect energetics in beta-SiC using three representative empirical 
+potentials," Modell. & Sim. in Mat. Sci. & Eng. 3, 615, 1995 - 85 citations, H Huang, N Ghoniem, "A 
+swelling model for stoichiometric SiC at temperatures below 1000 OC under neutron irradiation," JNM, 
+250 (2-3), 192-199, 1997; H Hanchen, N Ghoniem, "Neutron displacement damage cross sections for 
+SiC, JNM, 199 (3), 221-230, 1993, and El-Azab, A.; Ghoniem, M., "Viscoelastic analysis of mismatch 
+stresses in ceramic matrix composites under high-temperature neutron irradiation," Mech. of Mat., 20 (4), 
+291-303, 1995.)
+
+Nasr established a very productive experimental and modeling research program on plasma processing of 
+materials at UCLA in the 1990's.  He collaborated with some of the leading Japanese scientists on 
+establishing a successful series of international conferences on Applied Plasma Science.  Together with 
+Kobayashi (Osaka University), they established and maintained a bi-annual conference on applications of 
+plasmas in materials science and produced several conference proceeding (Akira Kobayashi and Nasr M. 
+Ghoniem, co-editors, "Advances in Applied Plasma Science, Vol. I" Proc. of the 1st Int. Symp. on Appl. 
+Plasma Science, 22-26 Sept. 1997, UCLA, Los Angeles, CA., USA, 198 pages, and  Vol. II" Proc. of the 
+2nd Int. Symp. on Appl. Plasma Science, 20-24 Sept. 1999, Osaka Sun Palace, Osaka, Japan, 453 pages).  
+Since he and Kobayashi started the series at UCLA in 1997, the bi-annual event is continuing the 
+contribution to the science of materials processed by plasmas and ions.  Nasr and his former students have 
+contributed significantly to the specific area of plasma spray of micro-structured high-temperature 
+coatings in a series of experimental and theoretical papers (e.g. S Sharafat, A Kobayashi, Y Chen, NM 
+Ghoniem, "Plasma spraying of micro-composite thermal barrier coatings," Vacuum 65 (3-4), 415-425, 
+2002; 	A Kobayashi, S Sharafat, NM Ghoniem, "Formation of tungsten coatings by gas tunnel type 
+plasma spraying," Surface and Coatings Technology 200 (14), 4630-4635, 2000; MD Demetriou, NM 
+Ghoniem, A S Lavine, "Kinetic modeling of phase selection during non-equilibrium solidification of a 
+tungsten-carbon system,"
+Acta Materialia, 50 (6), 1421-1432, 2002.)
+
+An important characteristic of Nasr's research is his ability to transfer knowledge from neighboring fields 
+and thus enrich the science of materials.  He had a significant collaboration with leading theoreticians in 
+Europe and South America to establish methodologies of non-linear dynamics in the materials science 
+field.  The success of the mathematical methods of non-linear dynamics in understanding pattern 
+selection, stability and bifurcations in fluid and chemical systems led Nasr to establish a decades-long 
+collaboration with Daniel Walgraef.  Together, they tackled several self-organization and pattern 
+formation phenomena in non-equilibrium materials (e.g. D Walgraef, J Lauzeral, NM Ghoniem, "Theory 
+and numerical simulations of defect ordering in irradiated materials," Physical Review B, 53 (22), 
+14782,1996, J Lauzeral, D Walgraef, NM Ghoniem, "Rose Deformation Patterns in Thin Films Irradiated 
+by Focused Laser Beams," Phy. Rev. lett. 79 (14), 2706-2709, 1997; D Walgraef, NM Ghoniem, 
+"Nonlinear dynamics of self-organized microstructure under irradiation," Physical Review B 52 (6), 3951, 
+1995).  Their collaboration resulted in the systematic exposition of the subject of self-organization of 
+materials in a rigorous framework that was published in a two-volume book by Oxford Press in 2008.
+
+Around 1987-1988, Nasr pioneered the development of a ground-breaking computational method, known 
+now as "Dislocation Dynamics," for the simulation of the collective dynamics of three-dimensional line 
+defects (dislocations) that are the fundamental carriers of plastic flow in materials (N.M. Ghoniem, R.J. 
+Amodeo, "Computer Simulation of Dislocation Pattern Formation," in Non-Linear Phenomena in 
+Materials Science I, L. Kubin and G. Martin, Eds., 377-388, 1988, RJ Amodeo and NM Ghoniem, 
+"Dislocation dynamics. I: A proposed methodology for deformation micromechanics," Physical Review B 
+41 (10), 6958, 1990, "Dislocation dynamics. II: Applications to the formation of persistent slip bands, 
+planar arrays, and dislocation cells," Physical Review B 41 (10), 6968, 1990. His research has led to 
+worldwide (and continuing) efforts to establish a physical theory of plasticity and fracture of materials, 
+with significant implications in the design of advanced materials. Prior to this work, the mechanical 
+properties were derived from the behavior of single dislocations in empirically conceptualized models.  
+His early fundamental contributions in this area have led to the emergence of an elegant and rigorous 
+computational method for simulation of plastic flow and fracture, as well as understanding of basic 
+dislocation properties (e.g. NM Ghoniem, SH Tong, LZ Sun, "Parametric dislocation dynamics: a 
+thermodynamics-based approach to investigations of mesoscopic plastic deformation," Physical Review 
+B, 61 (2), 913, 2000; NM Ghoniem, LZ Sun, "Fast-sum method for the elastic field of three-dimensional 
+dislocation ensembles," Physical review B 60 (1), 128, 1999."  As a result of advances in material 
+characterization techniques, and the miniaturization of sample geometry, direct experimental comparisons 
+between computer simulations and experiment have lent great credence to the fidelity of the dislocation 
+dynamics method as a reliable tool to investigate the mechanical behavior and to rationalize experimental 
+observations on a physical basis (e.g. JA El-Awady, M Wen, NM Ghoniem, "The role of the weakest-link 
+mechanism in controlling the plasticity of micropillars," J. of the Mech. & Phys. Sol.,  57 (1), 32-50, 
+2009.)
+
+**Materials Science Contributions and Service:**
+
+Nasr Ghoniem has made numerous and important, long-term contributions to the Materials Research 
+Society. He has been an active member and participant in MRS activities for two decades. Through his 
+participation in MRS activities, he worked with a number of scientists to establish the field of "Multiscale 
+Modeling of Materials." The first step taken was through an MRS Symposium (Bulatov, T. Diaz de la 
+Rubia, R. Phillips, E. Kaxiras, and N. M. Ghoniem, Co-editors, "Multiscale Modeling of Materials," 
+Proc. of the 1998 MRS Soc. Symp., 538, 1999, 591 pages).  A highly cited general reference for this effort 
+was published by Phil Mag: NM Ghoniem, EP Busso, N Kioussis, H Huang, "Multiscale modelling of 
+nanomechanics and micromechanics: an overview," Philosophical Magazine, 83 (31-34), 3475-3528, 
+2003. In addition, he organized several successful MRS symposia (Co-Organizer, International 
+Symposium on "Multi-Scale Modeling of Materials", MRS Fall Meeting, Boston, November 1998, Co-
+Organizer, International Symposium on "Multi-Scale Modeling of Materials", International Union of 
+Materials Research Societies (IUMRS), Beijing, China June 1999; Co-Organizer, MRS Symposium on 
+the Limits of Strength in Theory and Practice, MRS Fall Meeting, Boston, November 2000).
+Other Professional Service 
+Nasr is a member of ANS, TMS, MRS, APS, ASME and the American Academy of Mechanics. Nasr 
+Ghoniem has made important contributions to a number of other professional societies and activities. He 
+is on the editorial boards of several scientific journals (JNM, CMES, IJMD, JCTN, & guest editor for 
+MRS, Vacuum, Phil Mag., and JCAD) and is an associate editor of Defect & Diffusion Forum (Scitec 
+Publishers), and Solid State Phenomena (Scitec Publishers).  In addition, he organized several successful 
+conferences and symposia on radiation effects, plasticity and fracture, and multiscale modeling (he was 
+the general chair of the Second International Multiscale Materials Modeling Conference in Los Angeles, 
+2004).  He is the Editor of the Proc. of the 2nd Int. Conf. on Multiscale Materials Modeling (MMM-2), 
+Los Angeles, CA., October 2004, 484 pages. 
+
+**Honors and Recognition**
+
+- Royal Society of London Visiting Professorship Award
+- Outstanding Achievement Award of American Nuclear Society
+- Fellow of the American Nuclear Society
+- Outstanding Young Man of America Award
+- Kan Tong Po Visiting Professorship in Hong Kong, Royal Society of London
+- Research Fellowship, Japan Society for the Promotion of Science
+- Who’s Who in Frontier Science and Technology
+- International Who’s Who in Energy and Nuclear Science
+- UCLA Faculty–Staff Partnership Award
+- General Chair, Second International Conference on Multiscale Materials Modeling
+- Chair, NSF Review Panel
+- Outstanding Achievement Award of American Nuclear Society, Materials, and Fusion Energy Divisions
+- Fellow of the American Nuclear Society
+- Fellow of the American Society of Mechanical Engineers
+- Fellow of the American Academy of Mechanics
+- Fellow of the Materials Research Society
+- Fellow of the Japan Society for Promotion of Sciences
+
+**Mentor and Educator**
+
+His long career at UCLA as an educator resulted in 35 Ph.D.'s.  Eight of his former students ended up as 
+professors, while the others hold leading positions in National Labs or the industry.  In addition, he 
+mentored 40 Master's students, and supervised over 25 post doctoral and professional staff members from 
+many areas of the world.  In addition, seven of his former post-doctoral students hold professorial 
+positions as well, making a total of 15 professors from his group alone.  One of his former students is 
+currently the chair of the Nuclear Engineering Department at the University of Wisconsin, Madison (Jake 
+Blanchard), and another holds an endowed chair professorship at the University of Connecticut (Hanchen 
+Huang). Several other former students hold leadership positions in National Laboratories (Roger Martin, 
+ORNL, and Philip Chou, LLNL).  Nasr's educational and mentoring impact is felt in the US and around 
+the world in the fields of radiation interaction with materials, and the mechanics and physics of defects.  
+His former students have charted new directions in materials science and mechanics emanating from his 
+dedicated mentoring and guidance.
+
+**Summary**
+
+In summary, Nasr Ghoniem is an internationally recognized scholar and scientific leader in the materials 
+science and physics communities, as well as a dedicated member of the Materials Research Society. He 
+plays a prominent and active national role in science and technology directions on challenging national 
+and international issues associated with mechanics and materials science. His career is characterized by 
+original research, many outstanding scientific accomplishments, an exceptional publication record, 
+national scientific leadership, and a highly successful role in mentoring and educating the next 
+generations of materials scientists. 
+
+1
+
+1
+
