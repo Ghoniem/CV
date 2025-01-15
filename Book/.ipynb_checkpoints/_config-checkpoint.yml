@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Introduction to Renewable Energy
+title: Professor Nasr Ghoniem
 author: Professor Nasr Ghoniem, UCLA
 logo: logo.png
 
@@ -39,3 +39,5 @@ parse:
     # including those that are enabled by default!
     - amsmath
     - dollarmath
+    - colon_fence
+    - attrs_inline
