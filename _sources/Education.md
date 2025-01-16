@@ -1,5 +1,9 @@
-## Education 
+# Education
 
+![University of Alexandria](images/UAlex.jpg){height=250px style="margin-right: 50px;"} 
+![University of Wisconsin](images/UW.jpg){height=250px}
+
+ 
 | Degree   | Institution                | Department                     | Year |
 |----------|----------------------------|---------------------------------|------|
 | B.S.     | University of Alexandria, Egypt | Dept. of Nuclear Engineering    | 1971 |
