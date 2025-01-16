@@ -13,7 +13,7 @@ execute:
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
-    targetname: book.tex
+    targetname: Ghoniem_CV.tex
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
@@ -35,9 +35,8 @@ html:
 
 parse:
   myst_enable_extensions:
-    # don't forget to list any other extensions you want enabled,
-    # including those that are enabled by default!
     - amsmath
     - dollarmath
     - colon_fence
     - attrs_inline
+

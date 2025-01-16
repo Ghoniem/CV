@@ -12,7 +12,10 @@
 
 [DMS](https://dmsmultiphysics.com/)
 
-![Nasr's Picture](images/Nasr-Pic.png)
+
+![Ghoniem](images/Nasr-Pic.png){style="width: 10%; height: auto; display: block; margin: 0 auto;"}
+
+
 
  <p style="text-align: center;">Professor Ghoniem</p>
 
