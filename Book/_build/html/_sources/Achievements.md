@@ -37,7 +37,7 @@ boundaries, JNM 136 (2), 192-206, 1985).
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;">
-<strong>[4]</strong> Nasr and his students developed some of the earliest works in atomistic simulations of radiation 
+<strong>[4]</strong> Development of the earliest investigations into atomistic simulations of radiation 
 interaction with materials. He developed Monte Carlo (MC) and Molecular Dynamics (MD) simulations 
 of radiation interaction with materials.  The computer program that he developed with his former student 
 Phillip Chou (Transport of Ions in Polyatomic Materials, TRIPOS) preceded the commercially popular 
@@ -70,9 +70,7 @@ upsets in poly-silicon load, 64K NMOS SRAMs," Nuclear Science, IEEE Transactions
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;">
-<strong>[5]</strong> Nasr was the first to recognize the importance 
-of environmentally friendly structural materials, where he ventured into the experimental development of 
-low-activation steels.  He holds the first world patent on the development of low activation 
+<strong>[5]</strong> The first world patent on the development of low activation 
 ferritic/martensitic steels for (U.S. Patent No. 4,622,067, November 11, 1986 (with D. S. Gelles and R. 
 W. Powell) [Ghoniem Patenet](https://www.osti.gov/biblio/866049).  These early experimental efforts by Nasr have paved the way for worldwide research 
 programs to develop structural steel alloys for fission and fusion energy applications that are 
@@ -85,7 +83,7 @@ materials," Fusion Engineering and Design 51, 55-71, 2000).
 
 
 <div style="text-align: justify; margin-bottom: 20px;">
-<strong>[6]</strong> He recognized the importance of silicon carbide as a high-temperature material that has vast potential in 
+<strong>[6]</strong> Research on silicon carbide as a high-temperature material that has vast potential in 
 the electronics and nuclear industries.  He mentored several Ph.D. students and guided them to work on 
 fundamental aspects of defects, and on swelling and fracture processes in SiC and SiC/SiC composites.  
 The two students whom he mentored in this area are currently chaired professor at UConn (Huang) and 
@@ -122,8 +120,7 @@ Acta Materialia, 50 (6), 1421-1432, 2002.)
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;">
-<strong>[8]</strong> An important characteristic of Nasr's research is his ability to transfer knowledge from neighboring fields 
-and thus enrich the science of materials.  He had a significant collaboration with leading theoreticians in 
+<strong>[8]</strong>   He had a significant collaboration with leading theoreticians in 
 Europe and South America to establish methodologies of non-linear dynamics in the materials science 
 field.  The success of the mathematical methods of non-linear dynamics in understanding pattern 
 selection, stability and bifurcations in fluid and chemical systems led Nasr to establish a decades-long 
@@ -138,7 +135,7 @@ materials in a rigorous framework that was published in a two-volume book by Oxf
 </div>
 
 <div style="text-align: justify; margin-bottom: 20px;">
-<strong>[9]</strong> In 1987, Nasr pioneered the development of a ground-breaking computational method, known 
+<strong>[9]</strong> In 1987, he pioneered the development of a ground-breaking computational method, known 
 now as "Dislocation Dynamics," for the simulation of the collective dynamics of three-dimensional line 
 defects (dislocations) that are the fundamental carriers of plastic flow in materials (N.M. Ghoniem, R.J. 
 Amodeo, "Computer Simulation of Dislocation Pattern Formation," in Non-Linear Phenomena in 
