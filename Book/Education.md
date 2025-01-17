@@ -1,7 +1,7 @@
 # Education
 
-![University of Alexandria](images/UAlex.jpg){height=250px style="margin-right: 50px;"} 
-![University of Wisconsin](images/UW.jpg){height=250px}
+![University of Alexandria](images/UAlex.jpg){height=250px style="margin-right: 40px;"} 
+![University of Wisconsin](images/UW.jpg){height=250px style="margin-left: 40px;"} 
 
  
 | Degree   | Institution                | Department                     | Year |

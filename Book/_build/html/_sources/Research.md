@@ -1,6 +1,8 @@
 # Research
 <div style="text-align: justify;">
 Professor Nasr Ghoniem is a renowned scholar and a prominent leader in nuclear and aerospace engineering, materials science, and the mechanics and physics of materials. His contributions are widely recognized across these disciplines, and he is an active member of numerous scientific societies. He has played a pivotal national and international role in shaping science and technology strategies to address complex mechanics and materials science challenges. His distinguished career is marked by groundbreaking research, significant scientific achievements, an exceptional publication portfolio, and a strong commitment to mentoring and educating the next generation of engineers and scientists. His research has included a range of materials science and physics problems, exemplified by a unique understanding of the role of fundamental science in advancing technological innovation in mechanical, nuclear, and aerospace engineering.  He conducted and led research on damage and failure of materials, defect mechanics and physics, material degradation in severe environments, plasma and laser processing, self-organization and instability phenomena, and radiation interaction with materials.  
+
+Below are computer simualtions of shock waves in a copper crystal (left), and dislocation network formation inside a micropillar (right).
     
 ![shock](images/shock-1.mp4){height=180px style="margin-right: 20px;"} 
 ![dislocations](images/network.mp4){height=180px}

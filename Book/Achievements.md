@@ -1,164 +1,18 @@
 # Achievements
 ## Science & Engineering
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[1]</strong> During his Ph.D. research at the University of Wisconsin, Nasr developed theoretical models for the 
-dynamics of point defects and void swelling in structural materials under pulsed irradiation.  His 
-theoretical research on the effects of radiation pulsing on materials has defined many of the characteristics 
-of microstructure evolution and several macroscopic properties, and his findings were confirmed by 
-subsequent experiments.  Building on his Ph.D. thesis work on the  formulation of a dynamic rate theory for pulsed systems (e.g. NM Ghoniem, GL Kulcinski, "A critical 
-assessment of the effects of pulsed irradiation on the microstructure, swelling, and creep of materials," 
-Nucl. Technol./Fusion, 2(2), 165-198, 1982, Nasr developed a comprehensive 
-framework for the rate theory of microstructure evolution that included both nucleation and growth 
-simultaneously, and resulted in direct correlations between theory and experiments (NM Ghoniem, DD 
-Cho, "The Simultaneous Clustering of Point Defects during Irradiation," Physica Status Solidi (a) 54 (1), 
-171-178, 1979, EP Simonen, NM Ghoniem, NH Packan, "Pulsed flux effects on radiation damage," JNM, 
-122 (1-3), 391-401, 1984).
-</div>
+* **Theoretical models of point defect dynamics and void swelling in structural materials under pulsed irradiation:**  [pulsed irradiation](https://www.tandfonline.com/doi/pdf/10.13182/FST82-A20749?casa_token=Lu1X3WqtAEcAAAAA:D3TWcKQ-mpGdkLNOdZvCKCGcoqt9LW3nOB6-UQH1hGyEGwFuTVS7g-gJ_CUHjVXh2D8xqasoXXs),  [microstructure](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.2210540122)
+* **Development of the Fokker-Planck theory of atomic clustering:** [theory](https://www.tandfonline.com/doi/abs/10.1080/10420159908229097?casa_token=7rNzJ7_hCRkAAAAA:5lDWU27IR5jz4gSZ9ZAT1J2BDNshEYDOlA4K828r2xMghRxHftUvZm20WsxiM8lIQ5bdQ44bnEI), [dislocation loops](https://www.sciencedirect.com/science/article/abs/pii/0022311580901488), [thin films](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.39.11810)
+* **Development of the rate theory of helium transport and clustering in irradiated materials:** [theory](https://www.sciencedirect.com/science/article/abs/pii/0022311583900144), [material swelling](https://www.sciencedirect.com/science/article/abs/pii/0022311582903853), [fracture](https://www.sciencedirect.com/science/article/abs/pii/0022311585900078)
+* **Ion implantation and preferential sputtering:** [TRIPOS](https://www.sciencedirect.com/science/article/abs/pii/0168583X87901017)
+* **Effects of cosmic radiation on microelectronic materials:** [semiconductors](https://onlinelibrary.wiley.com/doi/abs/10.1002/pssa.2211040226), [multiple bit upset](https://ieeexplore.ieee.org/abstract/document/4337470?casa_token=1pNQNgvuQfUAAAAA:uYYGPNU9K8KyHrEJ6-5_rAw51oPCXj-G_owd9bind0XHsdaeZst3dFRnECCOsubZKwmr-J2Q), [SRAMs](https://ieeexplore.ieee.org/abstract/document/25520?casa_token=E9cEUhYOUU4AAAAA:FkDX792NWZfudqhZM4TDiaIFtHo68Xgxu1MCQssvNEzmM6JPOxVzp0nJStOcElNpf2XEZ7MC)
+* **The first world patent on environmentally-friendly fusion materials:** [Ghoniem Patent](https://www.osti.gov/biblio/866049). 
+* **The first publication on material selection for fusion energy:**  [fusion materials](https://www.sciencedirect.com/science/article/pii/S0920379600003203?casa_token=gnNYfDfc5H8AAAAA:i8MOjThakHCE0U9vgoGGqx2ZcVGA7N7-9K-NiNFpQfwLb_Czenk9De2zqksYLptq0iGZrTdv)
+* **Plasma processing of  materials:** [thermal barrier coatings](https://www.sciencedirect.com/science/article/pii/S0042207X00002694?casa_token=7YX3yS8r2GUAAAAA:L3AvVEU_1qJgmT1JVVulsdrNqImnRB4WMPtOnWx-6wu7fyGne3yRfiMLS2LfTdQQMmw0gg5J), [tungsten](https://www.sciencedirect.com/science/article/pii/S0257897205005311?casa_token=qPfC5dwnpj8AAAAA:4p5NOuDd7lwHxs298LFDzLGZe3tWdm_E8ZIZog3Y-Q83r420r1SRGMKAQnCBPhHYtc4Q7yaf), [tungsten carbide](https://www.sciencedirect.com/science/article/pii/S0257897200007222?casa_token=gq5NODCGwkYAAAAA:wo9bNPZOYzkjkrrH_Nd4ybDk34g8qkesTlzXH6WXOr9SqA0whkXthfQcnJRjgALsrzOvTb28), [solidification](https://www.sciencedirect.com/science/article/pii/S1359645401004475?casa_token=KYLuj1UHPKAAAAAA:QA1pl6dUcrK55dCiZex8AFpvchrb7_BqxMY1iI1byc5zZzb8coosTeajm3rP80-10yB-T0PE)
+* **Development of non-linear dynamics in materials science for instabilities & patterns:** [patterns](https://www.google.com/books/edition/Patterns_Defects_and_Materials_Instabili/razvCAAAQBAJ?hl=en&gbpv=1&dq=Ghoniem+Walgraef&pg=PR7&printsec=frontcover), [irradiated materials](https://iopscience.iop.org/article/10.1088/0965-0393/1/5/001/meta?casa_token=ErXIwpBUKFYAAAAA:pZ15Sgrc60-xw7vdNxymg2HKneTObmG-kwhYNOOUkxU_s-eOI3EwPeIXgTHMq6nWtAdRbH9jcCmda8oMaSgg0jM2PQ), [self organization](https://link.springer.com/article/10.1023/A:1015062218246), [laser](https://link.springer.com/article/10.1023/A:1008728610607)
+* **Development of a new field in materials science for modeling plastic deformation -- Dislocation Dynamics:** [first proposal](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.6958), [applications](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.41.6968), [thermodynamic framework](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.61.913), [fast sum](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.60.128), [handbook](https://link.springer.com/chapter/10.1007/978-1-4020-3286-8_172)
+* **Fusion energy achievements in design and materials:** [material selection](https://www.sciencedirect.com/science/article/abs/pii/S0920379600003203), [reactor design](https://www.tandfonline.com/doi/abs/10.13182/FST91-A29440), [nuclear science facility](https://www.sciencedirect.com/science/article/abs/pii/S0920379617306257), [laser fusion](https://ieeexplore.ieee.org/abstract/document/5382598), [cancer therapy](https://www.frontiersin.org/journals/medical-engineering/articles/10.3389/fmede.2024.1382025/full), [plasma-facing components](https://www.sciencedirect.com/science/article/abs/pii/S092037962300217X)
+* **The physics of plastic flow:** [avalanches](https://iopscience.iop.org/article/10.1088/1361-651X/aa97ad/meta?casa_token=zuA9hIFGYN4AAAAA:Ii9IvkFJ0EvckgRKqs1sG8ixxIf03JXWhzT2OteHzNqlbqASVbzIN680Dm_mrhgj4uiG7fJsPqLbVx4BKL2LjnzVxg), [mobility](https://www.sciencedirect.com/science/article/pii/S1359645416305948?casa_token=YA4AvxuyRZcAAAAA:7lPz2sarnv392HFimtJFeAaBhaX6nB3QxM4CFxpSUEJI2qx-_m-1CaGMZZ8kMDpRFpgiD8Yh), [micropillars](https://www.sciencedirect.com/science/article/pii/S1359645416300817?casa_token=nGZn6jtVjKUAAAAA:SQ1jV6D7yBRZEgiefs0vwTgS3XJjB5u4TgG01nkYFynbk50taUmpWjVQsq0FwCi2x0IUkTd8), [bursts](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.117.155502), [localization](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.215501).
 
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[2]</strong> Development of the Fokker-Planck theory of atomic clustering, with several 
-applications to microstructure evolution, diffusion of helium in irradiated materials, and the growth of thin films (e.g.   NM Ghoniem, S Sharafat, "A 
-numerical solution to the Fokker-Planck equation describing the evolution of the interstitial loop 
-microstructure during irradiation, JNM, 92 (1), 121-135, 1980, NM Ghoniem, "Stochastic theory 
-of diffusional planar-atomic clustering and its application to dislocation loops," Physical Review 
-B 39 (16), 11810, 1989, and H Huang, NM Ghoniem, "Formulation of a moment method for 
-multidimensional Fokker-Planck equations," Physical Review E 51 (6), 5251, 1995).
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[3]</strong> Development of the rate theory of helium transport and clustering in irradiated materials, with 
-numerous applications to grain boundary fracture and swelling of irradiated materials, and in 
-investigations of thermal and irradiation creep (e.g. NM Ghoniem, S Sharafat, JM Williams, and 
-LK Mansur, "Theory of helium transport and clustering in materials under irradiation," JNM, 
-117, 96-105, 1982, NM Ghoniem, ML Takata, "A rate theory of swelling induced by helium and 
-displacement damage in fusion reactor structural materials," JNM 105 (2-3), 276-292, 1982, and 
-NM Ghoniem, JN Alhajji, D Kaletta, "The effect of helium clustering on its transport to grain 
-boundaries, JNM 136 (2), 192-206, 1985).
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[4]</strong> Development of the earliest investigations into atomistic simulations of radiation 
-interaction with materials. He developed Monte Carlo (MC) and Molecular Dynamics (MD) simulations 
-of radiation interaction with materials.  The computer program that he developed with his former student 
-Phillip Chou (Transport of Ions in Polyatomic Materials, TRIPOS) preceded the commercially popular 
-code TRIM, routinely used nowadays for ion implantation studies (P Chou, NM Ghoniem, "Precipitate 
-dissolution by high energy collision cascades," JNM, 117, 55-63,1983).  His work on atomistic 
-simulation of radiation interaction with materials has two salient achievements:
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-    (1)	Ion implantation and preferential sputtering in heterogeneous materials (PS Chou, NM Ghoniem, 
-"Applications of the Monte Carlo code TRIPOS to surface and bulk ion transport problems," 
-Nuclear Instruments and Methods in Physics Research, 28 (2), 175-184, 1987, and SP Chou, NM 
-Ghoniem, "Molecular dynamics of collision cascades with composite pair--many-body 
-potentials," Physical Review, B, 43 (4), 2490-2495, 1991);
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-    (2)	Effects of cosmic radiation on microelectronic materials (MOS microchips). The problem of 
-"Single-Event Upset," where single, highly energetic cosmic particles, caused loss of guidance 
-and control in early satellites and other spacecraft.  His work with his former student, Roger 
-Martin, and industrial collaborators, has paved the way to develop mitigation strategies for this 
-problem (e.g. RC Martin, NM Ghoniem "Monte Carlo Simulation of Coupled Ion-Electron 
-Transport in Semiconductors," Physica Status Solidi (a) 104 (2), 743-754, 1987, Martin, R. C., 
-Ghoniem, N. M., Song, Y., Cable, J. S., "The Size Effect of Ion Charge Tracks on Single Event 
-Multiple-Bit Upset," Nuclear Science, IEEE Transactions, 34 (6), 1305- 1309, 1987.  Vu, K.N., 
-Cable, J.S., Witteles, A.A., Kolasinski, W.A., Koga, R., Elder, J.H.; Osborn, J.V., Martin, R.C., 
-and Ghoniem, N.M., "Experimental and analytical investigation of single event, multiple bit 
-upsets in poly-silicon load, 64K NMOS SRAMs," Nuclear Science, IEEE Transactions, 35 
-(6), 1673-1677, 1988).
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[5]</strong> The first world patent on the development of low activation 
-ferritic/martensitic steels for (U.S. Patent No. 4,622,067, November 11, 1986 (with D. S. Gelles and R. 
-W. Powell) [Ghoniem Patenet](https://www.osti.gov/biblio/866049).  These early experimental efforts by Nasr have paved the way for worldwide research 
-programs to develop structural steel alloys for fission and fusion energy applications that are 
-environmentally-friendly, yet of superior high-temperature performance.  His interest in the applied side 
-of materials science has led to a widely cited co-authored publication (with Zinkle, 120 citations) that has 
-helped guide the selection and development of high-temperature structural materials in nuclear energy 
-applications (SJ Zinkle, NM Ghoniem, "Operating temperature windows for fusion reactor structural 
-materials," Fusion Engineering and Design 51, 55-71, 2000).
-</div>
-
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[6]</strong> Research on silicon carbide as a high-temperature material that has vast potential in 
-the electronics and nuclear industries.  He mentored several Ph.D. students and guided them to work on 
-fundamental aspects of defects, and on swelling and fracture processes in SiC and SiC/SiC composites.  
-The two students whom he mentored in this area are currently chaired professor at UConn (Huang) and 
-full professor at Purdue (El Azab).  The basic determination of point defect formation and migration 
-energies in SiC was laid out by Nasr and his group (H Huang, NM Ghoniem, JK Wong, M Baskes, 
-"Molecular dynamics determination of defect energetics in beta-SiC using three representative empirical 
-potentials," Modell. & Sim. in Mat. Sci. & Eng. 3, 615, 1995 - 85 citations, H Huang, N Ghoniem, "A 
-swelling model for stoichiometric SiC at temperatures below 1000 OC under neutron irradiation," JNM, 
-250 (2-3), 192-199, 1997; H Hanchen, N Ghoniem, "Neutron displacement damage cross sections for 
-SiC, JNM, 199 (3), 221-230, 1993, and El-Azab, A.; Ghoniem, M., "Viscoelastic analysis of mismatch 
-stresses in ceramic matrix composites under high-temperature neutron irradiation," Mech. of Mat., 20 (4), 
-291-303, 1995.)
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[7]</strong> He established a very productive experimental and modeling research program on plasma processing of 
-materials at UCLA in the 1990's.  He collaborated with some of the leading Japanese scientists on 
-establishing a successful series of international conferences on Applied Plasma Science.  Together with 
-Kobayashi (Osaka University), they established and maintained a bi-annual conference on applications of 
-plasmas in materials science and produced several conference proceeding (Akira Kobayashi and Nasr M. 
-Ghoniem, co-editors, "Advances in Applied Plasma Science, Vol. I" Proc. of the 1st Int. Symp. on Appl. 
-Plasma Science, 22-26 Sept. 1997, UCLA, Los Angeles, CA., USA, 198 pages, and  Vol. II" Proc. of the 
-2nd Int. Symp. on Appl. Plasma Science, 20-24 Sept. 1999, Osaka Sun Palace, Osaka, Japan, 453 pages).  
-Since he and Kobayashi started the series at UCLA in 1997, the bi-annual event is continuing the 
-contribution to the science of materials processed by plasmas and ions.  Nasr and his former students have 
-contributed significantly to the specific area of plasma spray of micro-structured high-temperature 
-coatings in a series of experimental and theoretical papers (e.g. S Sharafat, A Kobayashi, Y Chen, NM 
-Ghoniem, "Plasma spraying of micro-composite thermal barrier coatings," Vacuum 65 (3-4), 415-425, 
-2002; 	A Kobayashi, S Sharafat, NM Ghoniem, "Formation of tungsten coatings by gas tunnel type 
-plasma spraying," Surface and Coatings Technology 200 (14), 4630-4635, 2000; MD Demetriou, NM 
-Ghoniem, A S Lavine, "Kinetic modeling of phase selection during non-equilibrium solidification of a 
-tungsten-carbon system,"
-Acta Materialia, 50 (6), 1421-1432, 2002.)
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[8]</strong>   He had a significant collaboration with leading theoreticians in 
-Europe and South America to establish methodologies of non-linear dynamics in the materials science 
-field.  The success of the mathematical methods of non-linear dynamics in understanding pattern 
-selection, stability and bifurcations in fluid and chemical systems led Nasr to establish a decades-long 
-collaboration with Daniel Walgraef.  Together, they tackled several self-organization and pattern 
-formation phenomena in non-equilibrium materials (e.g. D Walgraef, J Lauzeral, NM Ghoniem, "Theory 
-and numerical simulations of defect ordering in irradiated materials," Physical Review B, 53 (22), 
-14782,1996, J Lauzeral, D Walgraef, NM Ghoniem, "Rose Deformation Patterns in Thin Films Irradiated 
-by Focused Laser Beams," Phy. Rev. lett. 79 (14), 2706-2709, 1997; D Walgraef, NM Ghoniem, 
-"Nonlinear dynamics of self-organized microstructure under irradiation," Physical Review B 52 (6), 3951, 
-1995).  Their collaboration resulted in the systematic exposition of the subject of self-organization of 
-materials in a rigorous framework that was published in a two-volume book by Oxford Press in 2008.
-</div>
-
-<div style="text-align: justify; margin-bottom: 20px;">
-<strong>[9]</strong> In 1987, he pioneered the development of a ground-breaking computational method, known 
-now as "Dislocation Dynamics," for the simulation of the collective dynamics of three-dimensional line 
-defects (dislocations) that are the fundamental carriers of plastic flow in materials (N.M. Ghoniem, R.J. 
-Amodeo, "Computer Simulation of Dislocation Pattern Formation," in Non-Linear Phenomena in 
-Materials Science I, L. Kubin and G. Martin, Eds., 377-388, 1988, RJ Amodeo and NM Ghoniem, 
-"Dislocation dynamics. I: A proposed methodology for deformation micromechanics," Physical Review B 
-41 (10), 6958, 1990, "Dislocation dynamics. II: Applications to the formation of persistent slip bands, 
-planar arrays, and dislocation cells," Physical Review B 41 (10), 6968, 1990. His research has led to 
-worldwide (and continuing) efforts to establish a physical theory of plasticity and fracture of materials, 
-with significant implications in the design of advanced materials. Prior to this work, the mechanical 
-properties were derived from the behavior of single dislocations in empirically conceptualized models.  
-His early fundamental contributions in this area have led to the emergence of an elegant and rigorous 
-computational method for simulation of plastic flow and fracture, as well as understanding of basic 
-dislocation properties (e.g. NM Ghoniem, SH Tong, LZ Sun, "Parametric dislocation dynamics: a 
-thermodynamics-based approach to investigations of mesoscopic plastic deformation," Physical Review 
-B, 61 (2), 913, 2000; NM Ghoniem, LZ Sun, "Fast-sum method for the elastic field of three-dimensional 
-dislocation ensembles," Physical review B 60 (1), 128, 1999."  As a result of advances in material 
-characterization techniques, and the miniaturization of sample geometry, direct experimental comparisons 
-between computer simulations and experiment have lent great credence to the fidelity of the dislocation 
-dynamics method as a reliable tool to investigate the mechanical behavior and to rationalize experimental 
-observations on a physical basis (e.g. JA El-Awady, M Wen, NM Ghoniem, "The role of the weakest-link 
-mechanism in controlling the plasticity of micropillars," J. of the Mech. & Phys. Sol.,  57 (1), 32-50, 
-2009.)
-</div>
 
 ## Community Service:
 
@@ -167,27 +21,11 @@ Nasr Ghoniem has made numerous and important, long-term contributions to the Mat
 Society, the American Academy of Mechanics, The American Society of Mechanical Enegineers, and the American Nuclear Society. Examples are:
 </div>
 
-<strong>[1]  Multiscale Modeling</strong>   
-<div style="text-align: justify; margin-bottom: 20px;">
-The first proceedings on the subject: (Bulatov, T. Diaz de la  Rubia, R. Phillips, E. Kaxiras, and N. M. Ghoniem, Co-editors, "Multiscale Modeling of Materials," 
-Proc. of the 1998 MRS Soc. Symp., 538, 1999, 591 pages).  A highly cited general reference for this effort 
-was published by Phil Mag: NM Ghoniem, EP Busso, N Kioussis, H Huang, "Multiscale modelling of 
-nanomechanics and micromechanics: an overview," Philosophical Magazine, 83 (31-34), 3475-3528, 
-2003. In addition, he organized several successful MRS symposia (Co-Organizer, International 
-Symposium on "Multi-Scale Modeling of Materials", MRS Fall Meeting, Boston, November 1998, Co-
-Organizer, International Symposium on "Multi-Scale Modeling of Materials", International Union of 
-Materials Research Societies (IUMRS), Beijing, China June 1999; Co-Organizer, MRS Symposium on 
-the Limits of Strength in Theory and Practice, MRS Fall Meeting, Boston, November 2000). His leadership was recognized by the community as he was the Chair of the Second International Conference on Multiscale Modling of Materials at UCLA in October 2004. 
-</div>
+* **Multiscale Modeling:** Collaborated with others to establish the field of multiscale modeling of materials [nano and micromechanics](https://www.tandfonline.com/doi/abs/10.1080/14786430310001607388?casa_token=7a5jwYvDZFYAAAAA:ZS4K9PKUhClHF_SmK_R88azgbhWn2PvIPFn6lISLLCpeVXgtlZ5AS3YJY7MLgaTZ44mjV_dSCFM), 
 
-Please visit [MMS-2](https://mmm10.jhu.edu/doc/MMM-2_proceedings_final.pdf).
+* **Symposia Organizer:** International  Symposium on "Multi-Scale Modeling of Materials", MRS Fall Meeting, Boston, November 1998, International Symposium on "Multi-Scale Modeling of Materials", International Union of  Materials Research Societies (IUMRS), Beijing, China June 1999; MRS Symposium on  the Limits of Strength in Theory and Practice, MRS Fall Meeting, Boston, November 2000). His leadership was recognized by the community as he was the Chair of the Second International Conference on Multiscale Modling of Materials at UCLA in October 2004. [MMS-2](https://mmm10.jhu.edu/doc/MMM-2_proceedings_final.pdf).
 
-<strong>[2]  Fusion Energy</strong>  
-<div style="text-align: justify; margin-bottom: 20px;">
-Nasr made strong contributions to the national and international science and engineering communities in fusion energy, and specifically the development of radiation-resistant structural materials that are environmentally-friendly. In recognition of his contributions, he was awarded the Outstanding Achievement Awards for both the Fusion Energy Division and the Nuclear Materials Division of the American Nuclear Society. He was then selected by his colleagues to be the General Chair of the Nineteenth International Confenerce on Fusion Materials (ICFRM-19), which he held in La Jolla, CA. in November 2019. 
-</div>
-
-Please visit [ICFRM-19](https://www.osti.gov/servlets/purl/1772467) 
+* **Fusion Energy:** Strong contributions to the national and international science and engineering communities in fusion energy, and specifically the development of radiation-resistant structural materials that are environmentally-friendly. He was then selected by his colleagues to be the General Chair of the Nineteenth International Confenerce on Fusion Materials (ICFRM-19), which he held in La Jolla, CA. in November 2019. [ICFRM-19](https://www.osti.gov/servlets/purl/1772467) 
 
 ## Other Professional Service 
 
@@ -196,11 +34,7 @@ Nasr is a member of ANS, TMS, MRS, APS, ASME and the American Academy of Mechani
 Ghoniem has made important contributions to a number of other professional societies and activities. He 
 is on the editorial boards of several scientific journals (JNM, CMES, IJMD, JCTN, & guest editor for 
 MRS, Vacuum, Phil Mag., and JCAD) and is an associate editor of Defect & Diffusion Forum (Scitec 
-Publishers), and Solid State Phenomena (Scitec Publishers).  In addition, he organized several successful 
-conferences and symposia on radiation effects, plasticity and fracture, and multiscale modeling (he was 
-the general chair of the Second International Multiscale Materials Modeling Conference in Los Angeles, 
-2004).  He is the Editor of the Proc. of the 2nd Int. Conf. on Multiscale Materials Modeling (MMM-2), 
-Los Angeles, CA., October 2004, 484 pages. 
+Publishers), and Solid State Phenomena (Scitec Publishers).  
 </div>
 
 
@@ -221,6 +55,8 @@ Los Angeles, CA., October 2004, 484 pages.
 - Fellow of the American Academy of Mechanics
 - Fellow of the Materials Research Society
 - Fellow of the Japan Society for Promotion of Sciences
+- Special issue of Philosophical Magazine in his honor [phil mag](https://www.tandfonline.com/doi/full/10.1080/14786435.2010.511778)
+- Special issue and symposium on mechanics & physics of defects in his honor [MMM10](https://mmm10.jhu.edu/symposia/Mechanics-and-Physics-of-Defects.html)
 
 ## Mentoring and Education
 <div style="text-align: justify;">
